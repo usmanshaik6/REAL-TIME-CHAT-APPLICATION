@@ -12,7 +12,7 @@ DURATION: 6 WEEKS
 
 MENTOR: NEELA SANTOSH
 
-## Description: 📘 REAL-TIME-CHAT-APPLICATION using WebSockets
+## Description: 📘 REAL-TIME-CHAT-APPLICATION USING WEBSOCKETS
 
 Design and implement a real-time chat application using React.js for the frontend and Node.js with Socket.IO for the backend. The goal is to establish live two-way communication between multiple users.
 
@@ -70,6 +70,6 @@ Webpack compilation errors
 
 Simultaneously running both frontend and backend servers
 
-## Outcome:
+## OUTPUT:
 Successfully built a functional real-time chat application that allows multiple users to send and receive messages instantly.
 
